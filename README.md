@@ -21,6 +21,11 @@ cd simple-CRUD-biodata-siswa
 
 3. **Lalu Import Database ke localhost 'lkswilker.sql'**
 
+4. **Configure file config.php di (application/config/config.php)**
+```bash
+$config['base_url'] = 'http://localhost/simple-CRUD-biodata-siswa/';
+```
+
 ------------
 
 ### 👤 Default Account for testing
