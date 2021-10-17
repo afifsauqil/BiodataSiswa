@@ -2,14 +2,10 @@
 
 ------------
 
-### Tentang Repo Ini?
-Repositori ini adalah Web App E-commerce sederhana dengan Laravel 8. Project ini adalah online tes dari PT Majoo Teknologi Indonesia.**
-
 ### Fitur Apa Saja Yang Tersedia di Web App Ini?
 - Autentikasi Admin, User
 - Terdapat 2 User Level
 - Pengelolaan Biodata
-- Dan lain-lain.
 
 ------------
 
@@ -22,7 +18,7 @@ git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa
 
 2. **Create Database dengan nama database 'lkswilker' di local (PhpMyadmin)**
 
-3. **Lalu Import Database ke localhost 'lkswilker.sql)'**
+3. **Lalu Import Database ke localhost 'lkswilker.sql'**
 
 ------------
 
