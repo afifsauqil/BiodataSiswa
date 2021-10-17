@@ -1,3 +1,42 @@
+<h1 align="center">Halo, selamat datang di Repositori ini</h1>
+
+------------
+
+### Tentang Repo Ini?
+Repositori ini adalah Web App E-commerce sederhana dengan Laravel 8. Project ini adalah online tes dari PT Majoo Teknologi Indonesia.**
+
+### Fitur Apa Saja Yang Tersedia di Web App Ini?
+- Autentikasi Admin, User
+- Terdapat 2 User Level
+- Pengelolaan Biodata
+- Dan lain-lain.
+
+------------
+
+## 💻 Install
+
+1. **Clone Repository**
+```bash
+git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa
+```
+
+2. **Create Database dengan nama database 'lkswilker' di local (PhpMyadmin)**
+
+3. **Lalu Import Database ke localhost 'lkswilker.sql'**
+------------
+
+### 👤 Default Account for testing
+	
+**Admin Default Account**
+- Username: admin
+- Password: adminsmk2
+
+**User Default Account**
+- Username : siswa
+- Password : sijasmekda
+
+------------
+
 ###################
 What is CodeIgniter
 ###################
