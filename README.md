@@ -13,7 +13,8 @@
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa
+git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa.git
+cd simple-CRUD-biodata-siswa
 ```
 
 2. **Create Database dengan nama database 'lkswilker' di local (PhpMyadmin)**
