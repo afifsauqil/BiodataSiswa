@@ -20,9 +20,9 @@ Repositori ini adalah Web App E-commerce sederhana dengan Laravel 8. Project ini
 git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa
 ```
 
-2. **Create Database dengan nama database = lkswilker di local (PhpMyadmin)**
+2. **Create Database dengan nama database 'lkswilker' di local (PhpMyadmin)**
 
-3. **Lalu Import Database ke localhost (lkswilker.sql)**
+3. **Lalu Import Database ke localhost 'lkswilker.sql)'**
 
 ------------
 
@@ -38,9 +38,8 @@ git clone https://github.com/afifsauqil/simple-CRUD-biodata-siswa
 
 ------------
 
-###################
-What is CodeIgniter
-###################
+
+**What is CodeIgniter**
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
